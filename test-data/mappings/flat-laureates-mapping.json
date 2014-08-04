@@ -1,0 +1,151 @@
+{
+  "mappings": {
+    "laureates": {
+      "properties": {
+        "bornCity": {
+          "type": "string"
+        },
+        "bornCountryCode": {
+          "type": "string"
+        },
+        "bornCountry": {
+          "type": "string"
+        },
+        "died": {
+          "ignore_malformed": true,
+          "type": "date"
+        },
+        "born": {
+          "ignore_malformed": true,
+          "type": "date"
+        },
+        "share": {
+          "type": "integer",
+          "coerce": false
+        },
+        "motivation": {
+          "type": "string"
+        },
+        "year": {
+          "type": "integer",
+          "coerce": false
+        },
+        "category": {
+          "type": "string"
+        },
+        "affiliations": {
+          "properties": {
+            "name": {
+              "type": "string"
+            },
+            "city": {
+              "type": "string"
+            },
+            "category": {
+              "type": "string"
+            }
+          },
+          "type": "nested"
+        },
+        "gender": {
+          "type": "string"
+        },
+        "diedCity": {
+          "type": "string"
+        },
+        "diedCountryCode": {
+          "type": "string"
+        },
+        "diedCountry": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer",
+          "coerce": false
+        },
+        "firstname": {
+          "type": "string"
+        },
+        "surname": {
+          "type": "string"
+        }
+      }
+    },
+    "org-laureates": {
+      "properties": {
+        "bornCity": {
+          "type": "string"
+        },
+        "bornCountryCode": {
+          "type": "string"
+        },
+        "bornCountry": {
+          "type": "string"
+        },
+        "died": {
+          "ignore_malformed": true,
+          "type": "date"
+        },
+        "born": {
+          "ignore_malformed": true,
+          "type": "date"
+        },
+        "prizes": {
+          "properties": {
+            "share": {
+              "type": "integer",
+              "coerce": false
+            },
+            "motivation": {
+              "type": "string"
+            },
+            "year": {
+              "type": "integer",
+              "coerce": false
+            },
+            "category": {
+              "type": "string"
+            },
+            "affiliations": {
+              "properties": {
+                "name": {
+                  "type": "string"
+                },
+                "city": {
+                  "type": "string"
+                },
+                "category": {
+                  "type": "string"
+                }
+              },
+              "type": "nested"
+            }
+          },
+          "type": "nested"
+        },
+        "gender": {
+          "type": "string"
+        },
+        "diedCity": {
+          "type": "string"
+        },
+        "diedCountryCode": {
+          "type": "string"
+        },
+        "diedCountry": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer",
+          "coerce": false
+        },
+        "firstname": {
+          "type": "string"
+        },
+        "surname": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "mappings": {
+    "economics-prizes": {
+      "properties": {
+        "category": {
+          "type": "string"
+        },
+        "year": {
+          "type": "integer",
+          "coerce": false
+        },
+        "laureates": {
+          "properties": {
+            "share": {
+              "type": "integer",
+              "coerce": false
+            },
+            "surname": {
+              "type": "string"
+            },
+            "firstname": {
+              "type": "string"
+            },
+            "id": {
+              "type": "string"
+            }
+          },
+          "type": "nested"
+        },
+        "composite_id": {
+          "type": "string"
+        }
+      },
+      "_id": {
+        "path": "composite_id"
+      }
+    },
+    "prizes": {
+      "properties": {
+        "category": {
+          "type": "string"
+        },
+        "year": {
+          "type": "integer",
+          "coerce": false
+        },
+        "laureates": {
+          "properties": {
+            "share": {
+              "type": "integer",
+              "coerce": false
+            },
+            "surname": {
+              "type": "string"
+            },
+            "firstname": {
+              "type": "string"
+            },
+            "id": {
+              "type": "string"
+            }
+          },
+          "type": "nested"
+        },
+        "composite_id": {
+          "type": "string"
+        }
+      },
+      "_id": {
+        "path": "composite_id"
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+.metadata
+.project
+.classpath
+.settings/
+closure-library/
+target/
+bin/
+*.log
+*.bak
+*~
+
+deps.js
+build/
