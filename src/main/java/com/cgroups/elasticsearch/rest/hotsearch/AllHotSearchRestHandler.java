@@ -10,7 +10,7 @@ import static org.elasticsearch.rest.RestStatus.OK;
 public class AllHotSearchRestHandler implements RestHandler {
     @Inject
     public AllHotSearchRestHandler(RestController restController) {
-        restController.registerHandler(GET, "/plugin_hotsearch/allhotsearch", this);
+        restController.registerHandler(GET, "/plugin_hotsearch/_allhotsearch", this);
     }
 
     @Override
