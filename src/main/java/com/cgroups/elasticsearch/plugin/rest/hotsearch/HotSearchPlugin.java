@@ -21,24 +21,25 @@ public class HotSearchPlugin extends AbstractPlugin {
 	public String description() {
 		return "Elasticsearch Hot Search plugin";
 	}
-	
-    public void onModule(RestModule restModule) {
-        restModule.addRestAction(DetailAnalyzeRestHandler.class);
-    }
-    
+
+	public void onModule(RestModule restModule) {
+		restModule.addRestAction(DetailAnalyzeRestHandler.class);
+	}
+
 	@Override
-    public Collection<Class<? extends Module>> modules() {
-        /*
-		Collection<Class<? extends com.sun.xml.internal.ws.api.server.Module>> modules = new ArrayList<>();
-        modules.add(HotSearchModule.class);
-        modules.add(ExampleRestModule.class);
-        return Collections.unmodifiableCollection(modules);
-        */
-		
-        Collection<Class<? extends Module>> modules = Lists.newArrayList();
-        modules.add(HotSearchModule.class);
-        modules.add(ExampleRestModule.class);
-        modules.add(AllHotSearchRestModule.class);
-        return modules;
-    }
+	public Collection<Class<? extends Module>> modules() {
+		/*
+		 * Collection<Class<? extends
+		 * com.sun.xml.internal.ws.api.server.Module>> modules = new
+		 * ArrayList<>(); modules.add(HotSearchModule.class);
+		 * modules.add(ExampleRestModule.class); return
+		 * Collections.unmodifiableCollection(modules);
+		 */
+
+		Collection<Class<? extends Module>> modules = Lists.newArrayList();
+		modules.add(SearchNowRestModule.class);
+		modules.add(ExampleRestModule.class);
+		modules.add(AllHotSearchRestModule.class);
+		return modules;
+	}
 }
