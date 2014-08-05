@@ -1,4 +1,4 @@
-package com.worksap.elasticsearch.action.admin.indices.detail.analyze;
+package com.cgroups.elasticsearch.action.admin.indices.detail.analyze;
 
 import org.elasticsearch.action.ActionListener;
 import org.elasticsearch.action.support.single.custom.SingleCustomOperationRequestBuilder;

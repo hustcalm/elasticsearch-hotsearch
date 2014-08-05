@@ -1,4 +1,4 @@
-package com.worksap.elasticsearch.action.admin.indices.detail.analyze;
+package com.cgroups.elasticsearch.action.admin.indices.detail.analyze;
 
 import static org.elasticsearch.action.ValidateActions.addValidationError;
 

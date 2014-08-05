@@ -1,4 +1,4 @@
-package com.worksap.elasticsearch.plugin.rest.index.inspector;
+package com.cgroups.elasticsearch.plugin.rest.hotsearch;
 
 import java.util.ArrayList;
 import java.util.Collection;
@@ -8,7 +8,7 @@ import org.elasticsearch.common.inject.Module;
 import org.elasticsearch.plugins.AbstractPlugin;
 import org.elasticsearch.rest.RestModule;
 
-import com.worksap.elasticsearch.rest.index.inspector.DetailAnalyzeRestHandler;
+import com.cgroups.elasticsearch.rest.hotsearch.DetailAnalyzeRestHandler;
 
 public class HotSearchPlugin extends AbstractPlugin {
 	@Override
@@ -28,7 +28,7 @@ public class HotSearchPlugin extends AbstractPlugin {
 	@Override
     public Collection<Class<? extends Module>> modules() {
         Collection<Class<? extends Module>> modules = new ArrayList<>();
-        modules.add(IndexInspectorModule.class);
+        modules.add(HotSearchModule.class);
         return Collections.unmodifiableCollection(modules);
     }
 }

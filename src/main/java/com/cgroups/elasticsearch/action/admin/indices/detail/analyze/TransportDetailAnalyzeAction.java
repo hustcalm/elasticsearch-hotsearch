@@ -1,4 +1,4 @@
-package com.worksap.elasticsearch.action.admin.indices.detail.analyze;
+package com.cgroups.elasticsearch.action.admin.indices.detail.analyze;
 
 import java.io.IOException;
 import java.io.Reader;

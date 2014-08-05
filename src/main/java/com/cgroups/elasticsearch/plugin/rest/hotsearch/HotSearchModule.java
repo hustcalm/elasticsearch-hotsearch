@@ -1,14 +1,14 @@
-package com.worksap.elasticsearch.plugin.rest.index.inspector;
+package com.cgroups.elasticsearch.plugin.rest.hotsearch;
 
 import org.elasticsearch.action.GenericAction;
 import org.elasticsearch.action.support.TransportAction;
 import org.elasticsearch.common.inject.AbstractModule;
 import org.elasticsearch.common.inject.multibindings.MapBinder;
 
-import com.worksap.elasticsearch.action.admin.indices.detail.analyze.DetailAnalyzeAction;
-import com.worksap.elasticsearch.action.admin.indices.detail.analyze.TransportDetailAnalyzeAction;
+import com.cgroups.elasticsearch.action.admin.indices.detail.analyze.DetailAnalyzeAction;
+import com.cgroups.elasticsearch.action.admin.indices.detail.analyze.TransportDetailAnalyzeAction;
 
-public class IndexInspectorModule extends AbstractModule {
+public class HotSearchModule extends AbstractModule {
 
 	@SuppressWarnings("rawtypes")
 	@Override

@@ -1,4 +1,4 @@
-package com.worksap.elasticsearch.rest.index.inspector;
+package com.cgroups.elasticsearch.rest.hotsearch;
 
 import static org.elasticsearch.rest.RestRequest.Method.GET;
 import static org.elasticsearch.rest.RestRequest.Method.POST;
@@ -13,9 +13,9 @@ import org.elasticsearch.rest.RestController;
 import org.elasticsearch.rest.RestRequest;
 import org.elasticsearch.rest.action.support.RestToXContentListener;
 
-import com.worksap.elasticsearch.action.admin.indices.detail.analyze.DetailAnalyzeAction;
-import com.worksap.elasticsearch.action.admin.indices.detail.analyze.DetailAnalyzeRequest;
-import com.worksap.elasticsearch.action.admin.indices.detail.analyze.DetailAnalyzeResponse;
+import com.cgroups.elasticsearch.action.admin.indices.detail.analyze.DetailAnalyzeAction;
+import com.cgroups.elasticsearch.action.admin.indices.detail.analyze.DetailAnalyzeRequest;
+import com.cgroups.elasticsearch.action.admin.indices.detail.analyze.DetailAnalyzeResponse;
 
 public class DetailAnalyzeRestHandler  extends BaseRestHandler {
 	
