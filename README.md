@@ -12,3 +12,8 @@ Build
 * Execute "mvn package" in this project top directory (called PROJECT_HOME).
   * Then, the plugin package will be generated in PROJECT_HOME/target/release/elasticsearch-index-inspector-[VERSION].zip
 * For developer, as above, you can execute "mvn eclipse:eclipse" and then import it as an Eclipse project.
+
+Group_C Go
+==========
+
+Test gitlab from `group_c`!
