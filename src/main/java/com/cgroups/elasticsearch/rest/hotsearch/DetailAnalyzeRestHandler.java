@@ -45,7 +45,6 @@ public class DetailAnalyzeRestHandler  extends BaseRestHandler {
 
         DetailAnalyzeRequest analyzeRequest = new DetailAnalyzeRequest(index, text, request.param("analyzer"));
         analyzeRequest.listenerThreaded(false);
-
         client.admin().indices().execute(DetailAnalyzeAction.INSTANCE, analyzeRequest, new RestToXContentListener<DetailAnalyzeResponse>(channel));
 	}
 }
