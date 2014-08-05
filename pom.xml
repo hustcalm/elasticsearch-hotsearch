@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.worksap</groupId>
-	<artifactId>elasticsearch-index-inspector</artifactId>
+	<artifactId>elasticsearch-hotsearch</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>elasticsearch-index-inspector</name>
+	<name>elasticsearch-hotsearch</name>
 
 	<properties>
 		<elasticsearch.version>1.3.0</elasticsearch.version>

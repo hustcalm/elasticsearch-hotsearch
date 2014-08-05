@@ -10,15 +10,15 @@ import org.elasticsearch.rest.RestModule;
 
 import com.worksap.elasticsearch.rest.index.inspector.DetailAnalyzeRestHandler;
 
-public class IndexInspectorPlugin extends AbstractPlugin {
+public class HotSearchPlugin extends AbstractPlugin {
 	@Override
 	public String name() {
-		return "index-inspector-plugin";
+		return "hotsearch-plugin";
 	}
 
 	@Override
 	public String description() {
-		return "Elasticsearch index inspector plugin";
+		return "Elasticsearch Hot Search plugin";
 	}
 	
     public void onModule(RestModule restModule) {
