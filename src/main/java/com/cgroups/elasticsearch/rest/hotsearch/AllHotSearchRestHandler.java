@@ -8,9 +8,12 @@ import java.util.HashMap;
 import java.util.Map;
 
 import org.elasticsearch.rest.*;
+import org.elasticsearch.search.SearchHit;
+import org.elasticsearch.search.SearchHits;
 import org.elasticsearch.search.aggregations.AggregationBuilders;
 import org.elasticsearch.search.aggregations.bucket.terms.Terms;
 import org.elasticsearch.search.aggregations.bucket.terms.Terms.Bucket;
+import org.elasticsearch.search.aggregations.metrics.tophits.TopHits;
 
 
 import org.elasticsearch.action.search.SearchResponse;
@@ -98,9 +101,14 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
         SearchResponse response = client.prepareSearch("query_data_10k").setTypes("query")
                 .setQuery(QueryBuilders.matchAllQuery())
                 .setPostFilter(FilterBuilders.rangeFilter("date").from(backDay).to(today))
-                .addAggregation(AggregationBuilders.terms("keys").field("city").size(0).order(Terms.Order.count(false)))
+                .addAggregation(AggregationBuilders.terms("keys").field("city").size(0).order(Terms.Order.count(false)).
+                		subAggregation(AggregationBuilders.topHits("top_hit_words").setSize(3)))
                 .execute().actionGet();
 
+       //channel.sendResponse(new BytesRestResponse(OK, response.toString()));
+        
+        
+        
         Terms terms = response.getAggregations().get("keys");
         //Collection<Terms.Bucket> buckets = terms.getBuckets();
         
@@ -108,7 +116,7 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
 
         Map<String, Map<String, Object>> json = new HashMap<String, Map<String, Object>>();
         
-        long totalDocs = 0;
+        long totalDocs = 0;	
         totalDocs = response.getHits().getTotalHits();
         
         totalDocs = 0;
@@ -129,12 +137,26 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
         	//double population = (double)docNum/(double)totalDocs; // population among world
         	double population = (double)docNum/(double)maxDocNum;
         	
+        	// Get the top hit words
+        	Map<String, Object> topWords = new HashMap<String, Object>();
+        	TopHits topWordHits = b.getAggregations().get("top_hit_words");
+        	SearchHit[] searchWords = topWordHits.getHits().getHits();
+        	for(SearchHit sh:searchWords) {
+        		String single_word = sh.getSource().get("word").toString();
+        		topWords.put(single_word, 0.5);
+        		
+        	}
+        	
             Map<String, Object> single_city = new HashMap<String, Object>();
             //single_city.put("Population", String.valueOf(population));
             single_city.put("Population", population);
             //single_city.put("Docs", docNum);
             //single_city.put("TotalDocs", totalDocs);
-            single_city.put("hot_words", "test");
+            //single_city.put("hot_words", "test");
+            single_city.put("hot_words", topWords);
+
+            
+            b.getAggregations();
             
             json.put(city, single_city);
         }
@@ -144,6 +166,6 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
         //channel.sendResponse(new BytesRestResponse(OK, response.toString()));
         
         channel.sendResponse(new BytesRestResponse(OK, new JSONObject(ret_json).toString()));
-
+        
 	}
 }
