@@ -1,0 +1,4 @@
+mvn clean && mvn package
+plugin --remove hotsearch
+plugin --url file:////Users/lihang/dev/src/github/elasticsearch-hotsearch/target/release/elasticsearch-hotsearch-1.0-SNAPSHOT.zip --install elasticsearch-hotsearch
+elasticsearch
