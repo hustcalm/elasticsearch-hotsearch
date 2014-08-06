@@ -39,44 +39,54 @@ public class SearchNowHandler extends BaseRestHandler {
 	@Override
 	protected void handleRequest(RestRequest request, RestChannel channel,
 			Client client) throws Exception {
-		// String content =
-		// "{\n    \"status\": \"ok\",\n    \"content\": {\n      \"location\": \"Tokyo\",\n      \"query\": \"find movie\"\n    }\n  }";
-		// String who = request.param("who");
-		// String whoSafe = (who != null) ? who : "world";
+
 		Map<String, Object> res = action(client);
-		Map<String, Object> jsonmap = new HashMap<String, Object>();
-		jsonmap.put("city", res.get("city"));
-		jsonmap.put("word", res.get("word"));
-		jsonmap.put("date", res.get("date"));
-		StringBuffer sb = new StringBuffer();
-		for (Entry<String, Object> ent : res.entrySet()) {
-			sb.append(ent.getKey() + " : " + ent.getValue());
+
+		Map<String, Object> jsonmapres = new HashMap<String, Object>();
+		if (res != null) {
+			jsonmapres.put("status", "ok");
+
+			Map<String, Object> jsonmap = new HashMap<String, Object>();
+			jsonmap.put("location", res.get("city"));
+			jsonmap.put("query", res.get("word"));
+			jsonmap.put("date", res.get("date"));
+			jsonmap.put("status", res.get("status"));
+
+			jsonmapres.put("content", jsonmap);
+		} else {
+			jsonmapres.put("status", "wrong");
 		}
-		channel.sendResponse(new BytesRestResponse(OK, new JSONObject(res)
-				.toString()));
+
+		channel.sendResponse(new BytesRestResponse(OK, new JSONObject(
+				jsonmapres).toString()));
 
 	}
 
 	public static Map<String, Object> action(Client client) throws Exception {
 
-		SearchResponse response = client.prepareSearch("query_data_10k")
+		SearchResponse response = client
+				.prepareSearch("query_data_10k")
 				.setTypes("query")
 				.setSearchType(SearchType.DFS_QUERY_THEN_FETCH)
 				.setQuery(QueryBuilders.matchAllQuery())
 				// Query
 				.addSort(new FieldSortBuilder("date").order(SortOrder.DESC))
+				.addSort(new FieldSortBuilder("status").order(SortOrder.ASC))
 				.setFrom(0).setSize(1).setExplain(true).execute().actionGet();
 		String id = response.getHits().getAt(0).getId();
 		Map<String, Object> res = response.getHits().getAt(0).getSource();
+		try {
+			int s = (Integer) res.get("status");
+			if (s == 0) {
+				res.put("status", "1");
+				client.prepareIndex("query_data_10k", "query", id)
+						.setSource(res).execute().actionGet();
+				return res;
+			}
+		} catch (Exception e) {
 
-		int s = (Integer) res.get("status");
-		if (s == 0) {
-			IndexResponse newresponse = client
-					.prepareIndex("query_data_10k", "query", id).setSource(res)
-					.execute().actionGet();
-			return res;
 		}
+
 		return null;
 	}
-
 }
