@@ -1,0 +1,10 @@
+{
+    "query" : {
+        "properties" : {
+            "date" : {"type" : "string", "store":true},
+			"word" :{"type" : "string", "store":true},
+			"city": {"type" : "string", "store":true},
+			"status":{"type":"integer", "store":true}
+        }
+    }
+}

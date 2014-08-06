@@ -1,0 +1,2000 @@
+{"index":{"_index":"query_data_1k","_type":"query","_id":"1"}}
+{"date":"20140317","city":"New Delhi","word":"Friendship Day","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"2"}}
+{"date":"20140719","city":"Paris","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"3"}}
+{"date":"20140513","city":"Rome","word":"James Brady","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"4"}}
+{"date":"20140719","city":"Sendai","word":"Joe Manganiello","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"5"}}
+{"date":"20140707","city":"Seoul","word":"Dustin Johnson","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"6"}}
+{"date":"20140308","city":"Beijing","word":"WWE","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"7"}}
+{"date":"20140411","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"8"}}
+{"date":"20140331","city":"Tokyo","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"9"}}
+{"date":"20140707","city":"Moscow","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"10"}}
+{"date":"20140731","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"11"}}
+{"date":"20140402","city":"Sydney","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"12"}}
+{"date":"20140217","city":"Shanghai","word":"Cheryl Hines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"13"}}
+{"date":"20140703","city":"Berlin","word":"Home Run Derby","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"14"}}
+{"date":"20140608","city":"Tokyo","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"15"}}
+{"date":"20140209","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"16"}}
+{"date":"20140310","city":"Singapore","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"17"}}
+{"date":"20140626","city":"Toronto","word":"Eugenie Bouchard","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"18"}}
+{"date":"20140725","city":"Paris","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"19"}}
+{"date":"20140408","city":"Florence","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"20"}}
+{"date":"20140624","city":"Sendai","word":"24 Live Another Day","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"21"}}
+{"date":"20140605","city":"Toronto","word":"Nicki Minaj","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"22"}}
+{"date":"20140628","city":"Chicago","word":"Becca Tobin","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"23"}}
+{"date":"20140628","city":"Chicago","word":"Carmelo Anthony","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"24"}}
+{"date":"20140501","city":"Moscow","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"25"}}
+{"date":"20140318","city":"Boston","word":"Eric Hill","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"26"}}
+{"date":"20140609","city":"Sendai","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"27"}}
+{"date":"20140606","city":"Chicago","word":"Chick Fil A","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"28"}}
+{"date":"20140609","city":"Hong Kong","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"29"}}
+{"date":"20140525","city":"Berlin","word":"Jon Lester","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"30"}}
+{"date":"20140223","city":"New York","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"31"}}
+{"date":"20140503","city":"Seoul","word":"Destiny Beta","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"32"}}
+{"date":"20140313","city":"Toronto","word":"Skye McCole Bartusiak","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"33"}}
+{"date":"20140725","city":"Nagoya","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"34"}}
+{"date":"20140611","city":"Seoul","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"35"}}
+{"date":"20140605","city":"London","word":"Carmelo Anthony","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"36"}}
+{"date":"20140507","city":"Boston","word":"Dave Legeno","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"37"}}
+{"date":"20140415","city":"Sydney","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"38"}}
+{"date":"20140518","city":"Hong Kong","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"39"}}
+{"date":"20140709","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"40"}}
+{"date":"20140205","city":"Paris","word":"Dave Legeno","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"41"}}
+{"date":"20140612","city":"New Delhi","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"42"}}
+{"date":"20140323","city":"Sendai","word":"Pottermore","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"43"}}
+{"date":"20140623","city":"London","word":"Becca Tobin","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"44"}}
+{"date":"20140322","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"45"}}
+{"date":"20140426","city":"Paris","word":"Brazil vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"46"}}
+{"date":"20140404","city":"Moscow","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"47"}}
+{"date":"20140620","city":"New Delhi","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"48"}}
+{"date":"20140712","city":"Boston","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"49"}}
+{"date":"20140318","city":"Tokyo","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"50"}}
+{"date":"20140729","city":"Paris","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"51"}}
+{"date":"20140509","city":"Rome","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"52"}}
+{"date":"20140415","city":"Sydney","word":"Messi","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"53"}}
+{"date":"20140514","city":"Singapore","word":"Hercules movie","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"54"}}
+{"date":"20140730","city":"Beijing","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"55"}}
+{"date":"20140215","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"56"}}
+{"date":"20140419","city":"Toronto","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"57"}}
+{"date":"20140517","city":"Boston","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"58"}}
+{"date":"20140316","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"59"}}
+{"date":"20140304","city":"Nagoya","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"60"}}
+{"date":"20140510","city":"Tokyo","word":"Jeremy Lin","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"61"}}
+{"date":"20140402","city":"Paris","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"62"}}
+{"date":"20140402","city":"Nagoya","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"63"}}
+{"date":"20140703","city":"Berlin","word":"Garth Brooks","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"64"}}
+{"date":"20140516","city":"Rome","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"65"}}
+{"date":"20140312","city":"Berlin","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"66"}}
+{"date":"20140203","city":"Shanghai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"67"}}
+{"date":"20140717","city":"Shanghai","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"68"}}
+{"date":"20140321","city":"Moscow","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"69"}}
+{"date":"20140311","city":"Florence","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"70"}}
+{"date":"20140522","city":"Berlin","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"71"}}
+{"date":"20140308","city":"Chicago","word":"Destiny Beta","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"72"}}
+{"date":"20140214","city":"Hong Kong","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"73"}}
+{"date":"20140412","city":"Nagoya","word":"Lucy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"74"}}
+{"date":"20140615","city":"Toronto","word":"World Cup 2018","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"75"}}
+{"date":"20140416","city":"Beijing","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"76"}}
+{"date":"20140430","city":"Singapore","word":"Nicki Minaj","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"77"}}
+{"date":"20140602","city":"Tokyo","word":"Jim Kelly","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"78"}}
+{"date":"20140528","city":"Hong Kong","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"79"}}
+{"date":"20140202","city":"Sydney","word":"Shakira","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"80"}}
+{"date":"20140516","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"81"}}
+{"date":"20140430","city":"Tokyo","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"82"}}
+{"date":"20140718","city":"Sydney","word":"Gaza","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"83"}}
+{"date":"20140421","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"84"}}
+{"date":"20140209","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"85"}}
+{"date":"20140604","city":"Moscow","word":"ESPYS","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"86"}}
+{"date":"20140413","city":"Rome","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"87"}}
+{"date":"20140602","city":"London","word":"Messi","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"88"}}
+{"date":"20140301","city":"Paris","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"89"}}
+{"date":"20140620","city":"Toronto","word":"ESPN Body Issue","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"90"}}
+{"date":"20140519","city":"Berlin","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"91"}}
+{"date":"20140405","city":"New Delhi","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"92"}}
+{"date":"20140721","city":"Hong Kong","word":"Tommy Ramone","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"93"}}
+{"date":"20140207","city":"Shanghai","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"94"}}
+{"date":"20140227","city":"Rome","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"95"}}
+{"date":"20140410","city":"Paris","word":"Argentina vs Belgium","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"96"}}
+{"date":"20140522","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"97"}}
+{"date":"20140804","city":"Berlin","word":"Frank Caliendo","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"98"}}
+{"date":"20140722","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"99"}}
+{"date":"20140212","city":"Sendai","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"100"}}
+{"date":"20140721","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"101"}}
+{"date":"20140701","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"102"}}
+{"date":"20140619","city":"New Delhi","word":"Carmelo Anthony","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"103"}}
+{"date":"20140528","city":"Shanghai","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"104"}}
+{"date":"20140531","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"105"}}
+{"date":"20140507","city":"New York","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"106"}}
+{"date":"20140723","city":"Seoul","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"107"}}
+{"date":"20140617","city":"Paris","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"108"}}
+{"date":"20140709","city":"Nagoya","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"109"}}
+{"date":"20140711","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"110"}}
+{"date":"20140307","city":"New York","word":"Michael Strahan","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"111"}}
+{"date":"20140715","city":"Sendai","word":"Netherlands vs Costa Rica","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"112"}}
+{"date":"20140203","city":"Paris","word":"Happy Fourth of July","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"113"}}
+{"date":"20140701","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"114"}}
+{"date":"20140203","city":"Singapore","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"115"}}
+{"date":"20140214","city":"Beijing","word":"Orlando Bloom","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"116"}}
+{"date":"20140520","city":"Chicago","word":"Kacy Catanzaro","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"117"}}
+{"date":"20140529","city":"Boston","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"118"}}
+{"date":"20140224","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"119"}}
+{"date":"20140731","city":"Rome","word":"Yoenis Cespedes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"120"}}
+{"date":"20140311","city":"Moscow","word":"Home Run Derby","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"121"}}
+{"date":"20140611","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"122"}}
+{"date":"20140726","city":"Seoul","word":"Meek Mill","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"123"}}
+{"date":"20140326","city":"Toronto","word":"Raymond Frolander","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"124"}}
+{"date":"20140401","city":"Chicago","word":"Skye McCole Bartusiak","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"125"}}
+{"date":"20140410","city":"Singapore","word":"Gal Gadot","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"126"}}
+{"date":"20140319","city":"Florence","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"127"}}
+{"date":"20140712","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"128"}}
+{"date":"20140801","city":"Rome","word":"7 Eleven","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"129"}}
+{"date":"20140706","city":"Tokyo","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"130"}}
+{"date":"20140419","city":"Boston","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"131"}}
+{"date":"20140716","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"132"}}
+{"date":"20140315","city":"Boston","word":"Miley Cyrus","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"133"}}
+{"date":"20140426","city":"Toronto","word":"Pottermore","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"134"}}
+{"date":"20140516","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"135"}}
+{"date":"20140610","city":"Rome","word":"Michael Strahan","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"136"}}
+{"date":"20140330","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"137"}}
+{"date":"20140628","city":"Toronto","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"138"}}
+{"date":"20140222","city":"Paris","word":"Yoenis Cespedes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"139"}}
+{"date":"20140721","city":"New York","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"140"}}
+{"date":"20140216","city":"Berlin","word":"Garth Brooks","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"141"}}
+{"date":"20140530","city":"Boston","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"142"}}
+{"date":"20140728","city":"Chicago","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"143"}}
+{"date":"20140220","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"144"}}
+{"date":"20140223","city":"Singapore","word":"BJ Penn","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"145"}}
+{"date":"20140314","city":"Hong Kong","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"146"}}
+{"date":"20140316","city":"Chicago","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"147"}}
+{"date":"20140404","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"148"}}
+{"date":"20140525","city":"Sydney","word":"Brazil vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"149"}}
+{"date":"20140326","city":"Rome","word":"Kacy Catanzaro","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"150"}}
+{"date":"20140608","city":"Seoul","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"151"}}
+{"date":"20140420","city":"Nagoya","word":"7 Eleven","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"152"}}
+{"date":"20140217","city":"London","word":"Lucy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"153"}}
+{"date":"20140628","city":"Nagoya","word":"Nelson Mandela","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"154"}}
+{"date":"20140530","city":"Singapore","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"155"}}
+{"date":"20140522","city":"Sydney","word":"Jeff Gordon","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"156"}}
+{"date":"20140614","city":"Sydney","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"157"}}
+{"date":"20140731","city":"New Delhi","word":"Zac Efron","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"158"}}
+{"date":"20140609","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"159"}}
+{"date":"20140317","city":"Moscow","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"160"}}
+{"date":"20140325","city":"Shanghai","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"161"}}
+{"date":"20140624","city":"Singapore","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"162"}}
+{"date":"20140322","city":"New York","word":"Zac Efron","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"163"}}
+{"date":"20140614","city":"Boston","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"164"}}
+{"date":"20140624","city":"Tokyo","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"165"}}
+{"date":"20140721","city":"Shanghai","word":"Roger Federer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"166"}}
+{"date":"20140605","city":"Shanghai","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"167"}}
+{"date":"20140401","city":"Hong Kong","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"168"}}
+{"date":"20140511","city":"Seoul","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"169"}}
+{"date":"20140524","city":"Nagoya","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"170"}}
+{"date":"20140410","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"171"}}
+{"date":"20140326","city":"New York","word":"Freddie Prinze Jr","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"172"}}
+{"date":"20140525","city":"London","word":"Jesse Ventura","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"173"}}
+{"date":"20140321","city":"Toronto","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"174"}}
+{"date":"20140510","city":"Sendai","word":"Home Run Derby","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"175"}}
+{"date":"20140723","city":"New Delhi","word":"Hurricane Arthur","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"176"}}
+{"date":"20140617","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"177"}}
+{"date":"20140710","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"178"}}
+{"date":"20140612","city":"Rome","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"179"}}
+{"date":"20140322","city":"Boston","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"180"}}
+{"date":"20140726","city":"Toronto","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"181"}}
+{"date":"20140220","city":"New York","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"182"}}
+{"date":"20140530","city":"Sydney","word":"Skye McCole Bartusiak","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"183"}}
+{"date":"20140211","city":"Shanghai","word":"Garth Brooks","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"184"}}
+{"date":"20140419","city":"Beijing","word":"stephen a smith","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"185"}}
+{"date":"20140307","city":"Beijing","word":"Eid Mubarak","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"186"}}
+{"date":"20140712","city":"Seoul","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"187"}}
+{"date":"20140510","city":"Sendai","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"188"}}
+{"date":"20140407","city":"Nagoya","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"189"}}
+{"date":"20140615","city":"Sendai","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"190"}}
+{"date":"20140627","city":"Paris","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"191"}}
+{"date":"20140301","city":"Florence","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"192"}}
+{"date":"20140420","city":"Moscow","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"193"}}
+{"date":"20140427","city":"Paris","word":"24 Live Another Day","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"194"}}
+{"date":"20140305","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"195"}}
+{"date":"20140427","city":"Toronto","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"196"}}
+{"date":"20140209","city":"Nagoya","word":"Sabina Altynbekova","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"197"}}
+{"date":"20140509","city":"Singapore","word":"Sharknado 2","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"198"}}
+{"date":"20140210","city":"Hong Kong","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"199"}}
+{"date":"20140309","city":"Chicago","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"200"}}
+{"date":"20140425","city":"Tokyo","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"201"}}
+{"date":"20140204","city":"Boston","word":"Ian Thorpe","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"202"}}
+{"date":"20140207","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"203"}}
+{"date":"20140222","city":"Boston","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"204"}}
+{"date":"20140202","city":"Berlin","word":"Witches Of East End","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"205"}}
+{"date":"20140520","city":"Chicago","word":"Carlos Boozer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"206"}}
+{"date":"20140629","city":"Shanghai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"207"}}
+{"date":"20140410","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"208"}}
+{"date":"20140618","city":"Seoul","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"209"}}
+{"date":"20140616","city":"Shanghai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"210"}}
+{"date":"20140514","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"211"}}
+{"date":"20140610","city":"Sendai","word":"Michael Johns","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"212"}}
+{"date":"20140406","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"213"}}
+{"date":"20140705","city":"New York","word":"Friendship Day","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"214"}}
+{"date":"20140511","city":"New Delhi","word":"Elaine Stritch","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"215"}}
+{"date":"20140525","city":"London","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"216"}}
+{"date":"20140328","city":"Shanghai","word":"Coolest Cooler","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"217"}}
+{"date":"20140413","city":"New Delhi","word":"Shakira","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"218"}}
+{"date":"20140701","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"219"}}
+{"date":"20140413","city":"Beijing","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"220"}}
+{"date":"20140628","city":"Moscow","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"221"}}
+{"date":"20140312","city":"New Delhi","word":"UCLA","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"222"}}
+{"date":"20140422","city":"Berlin","word":"Sabina Altynbekova","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"223"}}
+{"date":"20140701","city":"Florence","word":"Yoenis Cespedes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"224"}}
+{"date":"20140401","city":"Boston","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"225"}}
+{"date":"20140515","city":"New York","word":"Apollo Nida","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"226"}}
+{"date":"20140305","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"227"}}
+{"date":"20140703","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"228"}}
+{"date":"20140628","city":"Toronto","word":"Argentina vs Belgium","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"229"}}
+{"date":"20140423","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"230"}}
+{"date":"20140531","city":"Shanghai","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"231"}}
+{"date":"20140415","city":"Beijing","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"232"}}
+{"date":"20140628","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"233"}}
+{"date":"20140725","city":"Moscow","word":"Home Run Derby","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"234"}}
+{"date":"20140427","city":"Berlin","word":"Weird Al Tacky","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"235"}}
+{"date":"20140531","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"236"}}
+{"date":"20140530","city":"Sydney","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"237"}}
+{"date":"20140224","city":"Boston","word":"Tour de France","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"238"}}
+{"date":"20140625","city":"Nagoya","word":"Jeff Gordon","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"239"}}
+{"date":"20140522","city":"Nagoya","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"240"}}
+{"date":"20140407","city":"Beijing","word":"ESPN Body Issue","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"241"}}
+{"date":"20140626","city":"Shanghai","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"242"}}
+{"date":"20140711","city":"Hong Kong","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"243"}}
+{"date":"20140209","city":"Seoul","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"244"}}
+{"date":"20140427","city":"New York","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"245"}}
+{"date":"20140421","city":"London","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"246"}}
+{"date":"20140223","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"247"}}
+{"date":"20140614","city":"New Delhi","word":"Michelle Rodriguez","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"248"}}
+{"date":"20140726","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"249"}}
+{"date":"20140212","city":"Singapore","word":"ESPYS","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"250"}}
+{"date":"20140729","city":"Moscow","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"251"}}
+{"date":"20140303","city":"Sydney","word":"Neymar","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"252"}}
+{"date":"20140305","city":"Shanghai","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"253"}}
+{"date":"20140430","city":"Chicago","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"254"}}
+{"date":"20140512","city":"Hong Kong","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"255"}}
+{"date":"20140205","city":"Rome","word":"World Cup 2018","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"256"}}
+{"date":"20140714","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"257"}}
+{"date":"20140407","city":"Shanghai","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"258"}}
+{"date":"20140319","city":"Moscow","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"259"}}
+{"date":"20140614","city":"Chicago","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"260"}}
+{"date":"20140529","city":"Singapore","word":"Canelo vs Lara","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"261"}}
+{"date":"20140309","city":"Toronto","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"262"}}
+{"date":"20140216","city":"Singapore","word":"Destiny Beta","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"263"}}
+{"date":"20140315","city":"Moscow","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"264"}}
+{"date":"20140312","city":"New York","word":"Anwan Glover","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"265"}}
+{"date":"20140517","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"266"}}
+{"date":"20140724","city":"Toronto","word":"Roger Federer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"267"}}
+{"date":"20140405","city":"Moscow","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"268"}}
+{"date":"20140515","city":"Nagoya","word":"Messi","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"269"}}
+{"date":"20140419","city":"Singapore","word":"Becca Tobin","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"270"}}
+{"date":"20140610","city":"Berlin","word":"The Strain","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"271"}}
+{"date":"20140529","city":"Nagoya","word":"Bastille Day","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"272"}}
+{"date":"20140607","city":"Sydney","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"273"}}
+{"date":"20140223","city":"Shanghai","word":"America's Got Talent","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"274"}}
+{"date":"20140802","city":"Sendai","word":"Nelson Mandela","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"275"}}
+{"date":"20140422","city":"London","word":"Eric Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"276"}}
+{"date":"20140211","city":"Toronto","word":"Elaine Stritch","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"277"}}
+{"date":"20140312","city":"Florence","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"278"}}
+{"date":"20140610","city":"Sydney","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"279"}}
+{"date":"20140415","city":"New York","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"280"}}
+{"date":"20140514","city":"Beijing","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"281"}}
+{"date":"20140224","city":"Rome","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"282"}}
+{"date":"20140609","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"283"}}
+{"date":"20140424","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"284"}}
+{"date":"20140621","city":"New York","word":"Bbc","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"285"}}
+{"date":"20140726","city":"Moscow","word":"Joey Chestnut","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"286"}}
+{"date":"20140625","city":"Chicago","word":"Orange Is the New Black","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"287"}}
+{"date":"20140504","city":"Chicago","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"288"}}
+{"date":"20140223","city":"Nagoya","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"289"}}
+{"date":"20140530","city":"New York","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"290"}}
+{"date":"20140313","city":"Shanghai","word":"Tiger Woods","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"291"}}
+{"date":"20140207","city":"Seoul","word":"Neymar","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"292"}}
+{"date":"20140708","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"293"}}
+{"date":"20140504","city":"Seoul","word":"Messi","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"294"}}
+{"date":"20140624","city":"Tokyo","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"295"}}
+{"date":"20140409","city":"Sendai","word":"Eid Mubarak","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"296"}}
+{"date":"20140617","city":"Tokyo","word":"Bbc","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"297"}}
+{"date":"20140218","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"298"}}
+{"date":"20140710","city":"Florence","word":"Chandler Parsons","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"299"}}
+{"date":"20140425","city":"New Delhi","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"300"}}
+{"date":"20140605","city":"Paris","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"301"}}
+{"date":"20140524","city":"New Delhi","word":"Ryan Dorsey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"302"}}
+{"date":"20140418","city":"Boston","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"303"}}
+{"date":"20140320","city":"Berlin","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"304"}}
+{"date":"20140512","city":"Moscow","word":"Elaine Stritch","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"305"}}
+{"date":"20140507","city":"New Delhi","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"306"}}
+{"date":"20140805","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"307"}}
+{"date":"20140802","city":"New York","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"308"}}
+{"date":"20140503","city":"Nagoya","word":"National Ice Cream Day","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"309"}}
+{"date":"20140323","city":"Tokyo","word":"Dan Bilzerian","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"310"}}
+{"date":"20140706","city":"Toronto","word":"Tiger Woods","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"311"}}
+{"date":"20140629","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"312"}}
+{"date":"20140419","city":"New York","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"313"}}
+{"date":"20140208","city":"Hong Kong","word":"John Venn","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"314"}}
+{"date":"20140214","city":"Boston","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"315"}}
+{"date":"20140513","city":"New Delhi","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"316"}}
+{"date":"20140609","city":"Sendai","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"317"}}
+{"date":"20140609","city":"Florence","word":"Who is the Next Bachelor","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"318"}}
+{"date":"20140515","city":"Berlin","word":"Burkina Faso","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"319"}}
+{"date":"20140413","city":"Nagoya","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"320"}}
+{"date":"20140604","city":"Chicago","word":"Argentina vs Belgium","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"321"}}
+{"date":"20140708","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"322"}}
+{"date":"20140717","city":"Tokyo","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"323"}}
+{"date":"20140514","city":"Berlin","word":"Gal Gadot","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"324"}}
+{"date":"20140510","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"325"}}
+{"date":"20140317","city":"Toronto","word":"Extant","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"326"}}
+{"date":"20140303","city":"London","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"327"}}
+{"date":"20140310","city":"New Delhi","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"328"}}
+{"date":"20140506","city":"London","word":"Burkina Faso","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"329"}}
+{"date":"20140531","city":"New Delhi","word":"Apollo Nida","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"330"}}
+{"date":"20140318","city":"Berlin","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"331"}}
+{"date":"20140613","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"332"}}
+{"date":"20140224","city":"Moscow","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"333"}}
+{"date":"20140329","city":"Moscow","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"334"}}
+{"date":"20140728","city":"Florence","word":"Orlando Bloom","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"335"}}
+{"date":"20140309","city":"Berlin","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"336"}}
+{"date":"20140507","city":"Toronto","word":"Dan Bilzerian","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"337"}}
+{"date":"20140302","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"338"}}
+{"date":"20140512","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"339"}}
+{"date":"20140422","city":"Florence","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"340"}}
+{"date":"20140415","city":"Shanghai","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"341"}}
+{"date":"20140224","city":"Rome","word":"7 Eleven","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"342"}}
+{"date":"20140323","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"343"}}
+{"date":"20140313","city":"Florence","word":"British Open","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"344"}}
+{"date":"20140328","city":"Berlin","word":"Roger Federer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"345"}}
+{"date":"20140412","city":"New York","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"346"}}
+{"date":"20140729","city":"Paris","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"347"}}
+{"date":"20140721","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"348"}}
+{"date":"20140208","city":"Beijing","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"349"}}
+{"date":"20140717","city":"Beijing","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"350"}}
+{"date":"20140322","city":"Nagoya","word":"Misty Copeland","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"351"}}
+{"date":"20140217","city":"Singapore","word":"Pottermore","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"352"}}
+{"date":"20140411","city":"Sydney","word":"Dan Bilzerian","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"353"}}
+{"date":"20140423","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"354"}}
+{"date":"20140427","city":"Beijing","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"355"}}
+{"date":"20140303","city":"Nagoya","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"356"}}
+{"date":"20140712","city":"Hong Kong","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"357"}}
+{"date":"20140629","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"358"}}
+{"date":"20140402","city":"Shanghai","word":"Addison Russell","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"359"}}
+{"date":"20140427","city":"Berlin","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"360"}}
+{"date":"20140705","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"361"}}
+{"date":"20140427","city":"Moscow","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"362"}}
+{"date":"20140413","city":"Seoul","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"363"}}
+{"date":"20140423","city":"Toronto","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"364"}}
+{"date":"20140802","city":"Paris","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"365"}}
+{"date":"20140609","city":"Hong Kong","word":"Cheryl Hines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"366"}}
+{"date":"20140421","city":"Shanghai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"367"}}
+{"date":"20140513","city":"Tokyo","word":"Sharknado 2","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"368"}}
+{"date":"20140318","city":"Florence","word":"Carlos Boozer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"369"}}
+{"date":"20140607","city":"New Delhi","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"370"}}
+{"date":"20140620","city":"Beijing","word":"The Strain","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"371"}}
+{"date":"20140727","city":"Sydney","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"372"}}
+{"date":"20140608","city":"Moscow","word":"Jeremy Lin","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"373"}}
+{"date":"20140531","city":"Singapore","word":"MSNBC","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"374"}}
+{"date":"20140215","city":"Tokyo","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"375"}}
+{"date":"20140324","city":"Paris","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"376"}}
+{"date":"20140214","city":"Boston","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"377"}}
+{"date":"20140603","city":"Chicago","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"378"}}
+{"date":"20140401","city":"Paris","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"379"}}
+{"date":"20140626","city":"Boston","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"380"}}
+{"date":"20140217","city":"Hong Kong","word":"Jon Lester","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"381"}}
+{"date":"20140517","city":"Seoul","word":"Pottermore","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"382"}}
+{"date":"20140616","city":"Rome","word":"Michael Sam","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"383"}}
+{"date":"20140403","city":"Shanghai","word":"Extant","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"384"}}
+{"date":"20140402","city":"Berlin","word":"Sharknado 2","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"385"}}
+{"date":"20140507","city":"Rome","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"386"}}
+{"date":"20140217","city":"Berlin","word":"Hurricane Arthur","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"387"}}
+{"date":"20140403","city":"Moscow","word":"Gal Gadot","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"388"}}
+{"date":"20140627","city":"Chicago","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"389"}}
+{"date":"20140517","city":"Shanghai","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"390"}}
+{"date":"20140611","city":"Shanghai","word":"Rory McIlroy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"391"}}
+{"date":"20140212","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"392"}}
+{"date":"20140408","city":"Berlin","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"393"}}
+{"date":"20140407","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"394"}}
+{"date":"20140630","city":"London","word":"Michael Johns","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"395"}}
+{"date":"20140619","city":"Shanghai","word":"Carlos Boozer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"396"}}
+{"date":"20140220","city":"Florence","word":"Brazil vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"397"}}
+{"date":"20140708","city":"Sydney","word":"Alexandria Chery","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"398"}}
+{"date":"20140215","city":"Seoul","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"399"}}
+{"date":"20140428","city":"Moscow","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"400"}}
+{"date":"20140204","city":"Berlin","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"401"}}
+{"date":"20140411","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"402"}}
+{"date":"20140518","city":"Nagoya","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"403"}}
+{"date":"20140313","city":"Toronto","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"404"}}
+{"date":"20140618","city":"Nagoya","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"405"}}
+{"date":"20140310","city":"New Delhi","word":"Yoenis Cespedes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"406"}}
+{"date":"20140219","city":"Hong Kong","word":"Becca Tobin","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"407"}}
+{"date":"20140501","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"408"}}
+{"date":"20140516","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"409"}}
+{"date":"20140417","city":"Rome","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"410"}}
+{"date":"20140629","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"411"}}
+{"date":"20140208","city":"Nagoya","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"412"}}
+{"date":"20140702","city":"Chicago","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"413"}}
+{"date":"20140507","city":"Boston","word":"BJ Penn","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"414"}}
+{"date":"20140801","city":"London","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"415"}}
+{"date":"20140419","city":"New York","word":"Extant","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"416"}}
+{"date":"20140730","city":"Hong Kong","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"417"}}
+{"date":"20140612","city":"London","word":"Jeremy Lin","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"418"}}
+{"date":"20140713","city":"Paris","word":"Elaine Stritch","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"419"}}
+{"date":"20140628","city":"Berlin","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"420"}}
+{"date":"20140620","city":"Chicago","word":"British Open","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"421"}}
+{"date":"20140621","city":"Shanghai","word":"Kacy Catanzaro","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"422"}}
+{"date":"20140307","city":"Tokyo","word":"Dawn of the Planet of the Apes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"423"}}
+{"date":"20140320","city":"Rome","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"424"}}
+{"date":"20140526","city":"Berlin","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"425"}}
+{"date":"20140412","city":"Toronto","word":"British Open","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"426"}}
+{"date":"20140428","city":"Rome","word":"Manuel Neuer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"427"}}
+{"date":"20140218","city":"Seoul","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"428"}}
+{"date":"20140401","city":"Chicago","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"429"}}
+{"date":"20140409","city":"Boston","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"430"}}
+{"date":"20140610","city":"Berlin","word":"Rory McIlroy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"431"}}
+{"date":"20140212","city":"Seoul","word":"Extant","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"432"}}
+{"date":"20140516","city":"London","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"433"}}
+{"date":"20140619","city":"Florence","word":"World Map","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"434"}}
+{"date":"20140321","city":"Florence","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"435"}}
+{"date":"20140624","city":"Singapore","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"436"}}
+{"date":"20140715","city":"New York","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"437"}}
+{"date":"20140216","city":"Paris","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"438"}}
+{"date":"20140523","city":"Nagoya","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"439"}}
+{"date":"20140718","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"440"}}
+{"date":"20140610","city":"Shanghai","word":"Federer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"441"}}
+{"date":"20140428","city":"Florence","word":"David Price","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"442"}}
+{"date":"20140511","city":"New Delhi","word":"Comic Con 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"443"}}
+{"date":"20140417","city":"Chicago","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"444"}}
+{"date":"20140617","city":"New Delhi","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"445"}}
+{"date":"20140519","city":"Shanghai","word":"Rory McIlroy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"446"}}
+{"date":"20140307","city":"Shanghai","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"447"}}
+{"date":"20140704","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"448"}}
+{"date":"20140516","city":"Hong Kong","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"449"}}
+{"date":"20140330","city":"Seoul","word":"Teen Choice Awards 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"450"}}
+{"date":"20140723","city":"London","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"451"}}
+{"date":"20140510","city":"Beijing","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"452"}}
+{"date":"20140713","city":"New Delhi","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"453"}}
+{"date":"20140416","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"454"}}
+{"date":"20140416","city":"Rome","word":"Ebola","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"455"}}
+{"date":"20140727","city":"New York","word":"Ryan Dorsey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"456"}}
+{"date":"20140623","city":"Tokyo","word":"Gaza","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"457"}}
+{"date":"20140630","city":"Berlin","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"458"}}
+{"date":"20140314","city":"London","word":"Gal Gadot","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"459"}}
+{"date":"20140210","city":"Singapore","word":"Carlos Boozer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"460"}}
+{"date":"20140630","city":"Moscow","word":"Gal Gadot","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"461"}}
+{"date":"20140310","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"462"}}
+{"date":"20140305","city":"Nagoya","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"463"}}
+{"date":"20140527","city":"New York","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"464"}}
+{"date":"20140220","city":"Sydney","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"465"}}
+{"date":"20140312","city":"New Delhi","word":"Ebola","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"466"}}
+{"date":"20140227","city":"Paris","word":"Carmelo Anthony","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"467"}}
+{"date":"20140520","city":"Sendai","word":"Facebook down","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"468"}}
+{"date":"20140221","city":"Toronto","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"469"}}
+{"date":"20140303","city":"Sendai","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"470"}}
+{"date":"20140308","city":"Sendai","word":"Lollapalooza","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"471"}}
+{"date":"20140308","city":"Singapore","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"472"}}
+{"date":"20140708","city":"New Delhi","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"473"}}
+{"date":"20140516","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"474"}}
+{"date":"20140322","city":"Boston","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"475"}}
+{"date":"20140629","city":"New Delhi","word":"Pottermore","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"476"}}
+{"date":"20140713","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"477"}}
+{"date":"20140218","city":"Beijing","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"478"}}
+{"date":"20140727","city":"Paris","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"479"}}
+{"date":"20140803","city":"Paris","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"480"}}
+{"date":"20140713","city":"Sydney","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"481"}}
+{"date":"20140602","city":"Paris","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"482"}}
+{"date":"20140624","city":"New York","word":"British Open","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"483"}}
+{"date":"20140729","city":"Nagoya","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"484"}}
+{"date":"20140321","city":"Rome","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"485"}}
+{"date":"20140606","city":"Seoul","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"486"}}
+{"date":"20140317","city":"Sendai","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"487"}}
+{"date":"20140408","city":"Chicago","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"488"}}
+{"date":"20140518","city":"Toronto","word":"Orlando Bloom","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"489"}}
+{"date":"20140327","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"490"}}
+{"date":"20140508","city":"Beijing","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"491"}}
+{"date":"20140330","city":"Chicago","word":"Ebola","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"492"}}
+{"date":"20140624","city":"Hong Kong","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"493"}}
+{"date":"20140622","city":"Sydney","word":"Tommy Ramone","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"494"}}
+{"date":"20140416","city":"Florence","word":"Tommy Ramone","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"495"}}
+{"date":"20140804","city":"Chicago","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"496"}}
+{"date":"20140607","city":"Hong Kong","word":"Jesse Ventura","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"497"}}
+{"date":"20140305","city":"Singapore","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"498"}}
+{"date":"20140525","city":"Berlin","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"499"}}
+{"date":"20140716","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"500"}}
+{"date":"20140206","city":"Sendai","word":"Super Smash Bros","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"501"}}
+{"date":"20140628","city":"Sendai","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"502"}}
+{"date":"20140201","city":"Moscow","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"503"}}
+{"date":"20140706","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"504"}}
+{"date":"20140503","city":"Berlin","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"505"}}
+{"date":"20140226","city":"Toronto","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"506"}}
+{"date":"20140529","city":"Chicago","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"507"}}
+{"date":"20140805","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"508"}}
+{"date":"20140216","city":"Toronto","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"509"}}
+{"date":"20140529","city":"Singapore","word":"Pottermore","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"510"}}
+{"date":"20140615","city":"Nagoya","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"511"}}
+{"date":"20140406","city":"Sydney","word":"Emmy nominations 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"512"}}
+{"date":"20140222","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"513"}}
+{"date":"20140616","city":"Chicago","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"514"}}
+{"date":"20140203","city":"Chicago","word":"Dave Legeno","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"515"}}
+{"date":"20140417","city":"Florence","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"516"}}
+{"date":"20140520","city":"Rome","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"517"}}
+{"date":"20140417","city":"Sendai","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"518"}}
+{"date":"20140605","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"519"}}
+{"date":"20140708","city":"Hong Kong","word":"Listeria","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"520"}}
+{"date":"20140606","city":"Singapore","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"521"}}
+{"date":"20140402","city":"Sydney","word":"NBC News","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"522"}}
+{"date":"20140402","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"523"}}
+{"date":"20140730","city":"Moscow","word":"Jessica Barrymore","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"524"}}
+{"date":"20140405","city":"Moscow","word":"Alix Tichelman","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"525"}}
+{"date":"20140321","city":"Tokyo","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"526"}}
+{"date":"20140407","city":"Shanghai","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"527"}}
+{"date":"20140325","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"528"}}
+{"date":"20140611","city":"Beijing","word":"Michael Johns","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"529"}}
+{"date":"20140312","city":"Hong Kong","word":"Eric Hill","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"530"}}
+{"date":"20140420","city":"Sendai","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"531"}}
+{"date":"20140324","city":"Hong Kong","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"532"}}
+{"date":"20140218","city":"Chicago","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"533"}}
+{"date":"20140803","city":"Boston","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"534"}}
+{"date":"20140218","city":"Rome","word":"Apollo Nida","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"535"}}
+{"date":"20140526","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"536"}}
+{"date":"20140210","city":"Sendai","word":"Drake","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"537"}}
+{"date":"20140418","city":"Seoul","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"538"}}
+{"date":"20140618","city":"Seoul","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"539"}}
+{"date":"20140514","city":"Toronto","word":"Paul Pierce","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"540"}}
+{"date":"20140514","city":"Rome","word":"7 Eleven","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"541"}}
+{"date":"20140728","city":"Hong Kong","word":"Bastille Day","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"542"}}
+{"date":"20140520","city":"New York","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"543"}}
+{"date":"20140602","city":"Paris","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"544"}}
+{"date":"20140218","city":"Hong Kong","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"545"}}
+{"date":"20140218","city":"Hong Kong","word":"ABC News","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"546"}}
+{"date":"20140306","city":"New York","word":"7 Eleven","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"547"}}
+{"date":"20140630","city":"Rome","word":"The Strain","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"548"}}
+{"date":"20140726","city":"Moscow","word":"James Brady","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"549"}}
+{"date":"20140716","city":"Toronto","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"550"}}
+{"date":"20140623","city":"Moscow","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"551"}}
+{"date":"20140210","city":"Chicago","word":"Brazil vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"552"}}
+{"date":"20140212","city":"Sydney","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"553"}}
+{"date":"20140721","city":"New Delhi","word":"Hurricane Arthur","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"554"}}
+{"date":"20140408","city":"Sendai","word":"Emmy nominations 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"555"}}
+{"date":"20140206","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"556"}}
+{"date":"20140612","city":"Sendai","word":"Jim Kelly","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"557"}}
+{"date":"20140401","city":"Sydney","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"558"}}
+{"date":"20140423","city":"Moscow","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"559"}}
+{"date":"20140625","city":"Boston","word":"Nelson Mandela","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"560"}}
+{"date":"20140621","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"561"}}
+{"date":"20140526","city":"Florence","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"562"}}
+{"date":"20140307","city":"Boston","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"563"}}
+{"date":"20140202","city":"London","word":"Kacy Catanzaro","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"564"}}
+{"date":"20140213","city":"Sendai","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"565"}}
+{"date":"20140630","city":"New Delhi","word":"Eugenie Bouchard","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"566"}}
+{"date":"20140227","city":"Chicago","word":"Jeff Gordon","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"567"}}
+{"date":"20140409","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"568"}}
+{"date":"20140205","city":"Sendai","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"569"}}
+{"date":"20140607","city":"Shanghai","word":"Ryan Dorsey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"570"}}
+{"date":"20140205","city":"Florence","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"571"}}
+{"date":"20140714","city":"Rome","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"572"}}
+{"date":"20140521","city":"Singapore","word":"James Brady","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"573"}}
+{"date":"20140318","city":"Boston","word":"Behati Prinsloo","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"574"}}
+{"date":"20140308","city":"Moscow","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"575"}}
+{"date":"20140510","city":"Shanghai","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"576"}}
+{"date":"20140609","city":"Florence","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"577"}}
+{"date":"20140801","city":"Beijing","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"578"}}
+{"date":"20140717","city":"Moscow","word":"Mad Max","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"579"}}
+{"date":"20140601","city":"Sydney","word":"Josh Gordon","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"580"}}
+{"date":"20140726","city":"Hong Kong","word":"Burkina Faso","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"581"}}
+{"date":"20140715","city":"Moscow","word":"Bbc","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"582"}}
+{"date":"20140205","city":"Moscow","word":"Eva Mendes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"583"}}
+{"date":"20140316","city":"London","word":"Listeria","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"584"}}
+{"date":"20140706","city":"Berlin","word":"McKayla Maroney","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"585"}}
+{"date":"20140515","city":"Singapore","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"586"}}
+{"date":"20140509","city":"Toronto","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"587"}}
+{"date":"20140311","city":"Florence","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"588"}}
+{"date":"20140513","city":"Sendai","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"589"}}
+{"date":"20140630","city":"New Delhi","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"590"}}
+{"date":"20140226","city":"Sydney","word":"Apollo Nida","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"591"}}
+{"date":"20140226","city":"New York","word":"Elaine Stritch","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"592"}}
+{"date":"20140606","city":"Berlin","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"593"}}
+{"date":"20140226","city":"Shanghai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"594"}}
+{"date":"20140226","city":"Singapore","word":"Burkina Faso","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"595"}}
+{"date":"20140527","city":"Chicago","word":"Jeremy Lin","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"596"}}
+{"date":"20140616","city":"Berlin","word":"Emmy nominations 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"597"}}
+{"date":"20140208","city":"Rome","word":"World Cup 2018","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"598"}}
+{"date":"20140403","city":"New York","word":"Shakira","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"599"}}
+{"date":"20140725","city":"Sydney","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"600"}}
+{"date":"20140410","city":"Shanghai","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"601"}}
+{"date":"20140719","city":"Tokyo","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"602"}}
+{"date":"20140326","city":"Boston","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"603"}}
+{"date":"20140615","city":"New York","word":"Stuart Scott","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"604"}}
+{"date":"20140530","city":"Sendai","word":"Adrienne Bailon","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"605"}}
+{"date":"20140521","city":"Florence","word":"Michael Johns","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"606"}}
+{"date":"20140207","city":"Paris","word":"Netherlands vs Costa Rica","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"607"}}
+{"date":"20140321","city":"New Delhi","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"608"}}
+{"date":"20140507","city":"Tokyo","word":"Rory McIlroy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"609"}}
+{"date":"20140601","city":"Seoul","word":"France vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"610"}}
+{"date":"20140320","city":"New York","word":"Dustin Johnson","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"611"}}
+{"date":"20140313","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"612"}}
+{"date":"20140207","city":"Boston","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"613"}}
+{"date":"20140724","city":"Shanghai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"614"}}
+{"date":"20140713","city":"Singapore","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"615"}}
+{"date":"20140723","city":"Sendai","word":"ESPYS","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"616"}}
+{"date":"20140310","city":"New Delhi","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"617"}}
+{"date":"20140413","city":"Shanghai","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"618"}}
+{"date":"20140527","city":"Shanghai","word":"Dawn of the Planet of the Apes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"619"}}
+{"date":"20140720","city":"Paris","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"620"}}
+{"date":"20140603","city":"Hong Kong","word":"British Open","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"621"}}
+{"date":"20140726","city":"Paris","word":"Garth Brooks Tour","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"622"}}
+{"date":"20140702","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"623"}}
+{"date":"20140627","city":"Nagoya","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"624"}}
+{"date":"20140705","city":"Hong Kong","word":"Federer","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"625"}}
+{"date":"20140201","city":"Sendai","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"626"}}
+{"date":"20140225","city":"Chicago","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"627"}}
+{"date":"20140620","city":"Singapore","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"628"}}
+{"date":"20140710","city":"Hong Kong","word":"German flag","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"629"}}
+{"date":"20140223","city":"Paris","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"630"}}
+{"date":"20140513","city":"Paris","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"631"}}
+{"date":"20140502","city":"Tokyo","word":"Jesse Ventura","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"632"}}
+{"date":"20140219","city":"Boston","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"633"}}
+{"date":"20140511","city":"Boston","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"634"}}
+{"date":"20140210","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"635"}}
+{"date":"20140619","city":"Singapore","word":"Meek Mill","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"636"}}
+{"date":"20140521","city":"Sendai","word":"Nelson Mandela","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"637"}}
+{"date":"20140607","city":"Berlin","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"638"}}
+{"date":"20140719","city":"Chicago","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"639"}}
+{"date":"20140709","city":"Seoul","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"640"}}
+{"date":"20140709","city":"Beijing","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"641"}}
+{"date":"20140217","city":"Florence","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"642"}}
+{"date":"20140427","city":"Hong Kong","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"643"}}
+{"date":"20140205","city":"New York","word":"Michael Strahan","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"644"}}
+{"date":"20140222","city":"Boston","word":"Eric Hill","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"645"}}
+{"date":"20140716","city":"Beijing","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"646"}}
+{"date":"20140505","city":"Shanghai","word":"Argentina vs Belgium","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"647"}}
+{"date":"20140623","city":"Tokyo","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"648"}}
+{"date":"20140615","city":"London","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"649"}}
+{"date":"20140603","city":"Sydney","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"650"}}
+{"date":"20140322","city":"New Delhi","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"651"}}
+{"date":"20140512","city":"Moscow","word":"Facebook down","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"652"}}
+{"date":"20140716","city":"Nagoya","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"653"}}
+{"date":"20140602","city":"New York","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"654"}}
+{"date":"20140712","city":"Sendai","word":"Messi","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"655"}}
+{"date":"20140528","city":"London","word":"24 Live Another Day","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"656"}}
+{"date":"20140614","city":"Moscow","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"657"}}
+{"date":"20140302","city":"New York","word":"Dustin Johnson","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"658"}}
+{"date":"20140724","city":"Berlin","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"659"}}
+{"date":"20140310","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"660"}}
+{"date":"20140419","city":"Shanghai","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"661"}}
+{"date":"20140322","city":"Tokyo","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"662"}}
+{"date":"20140626","city":"London","word":"Anwan Glover","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"663"}}
+{"date":"20140719","city":"Paris","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"664"}}
+{"date":"20140307","city":"New Delhi","word":"Robyn Lawley","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"665"}}
+{"date":"20140512","city":"New Delhi","word":"Tommy Ramone","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"666"}}
+{"date":"20140220","city":"Shanghai","word":"Eugenie Bouchard","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"667"}}
+{"date":"20140424","city":"Singapore","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"668"}}
+{"date":"20140322","city":"Chicago","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"669"}}
+{"date":"20140702","city":"Toronto","word":"Michelle Rodriguez","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"670"}}
+{"date":"20140530","city":"Seoul","word":"National Tequila Day","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"671"}}
+{"date":"20140402","city":"Boston","word":"America's Got Talent","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"672"}}
+{"date":"20140708","city":"Florence","word":"Michael Johns","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"673"}}
+{"date":"20140708","city":"Nagoya","word":"Who is the Next Bachelor","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"674"}}
+{"date":"20140612","city":"Rome","word":"Canelo vs Lara","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"675"}}
+{"date":"20140507","city":"London","word":"Brazil vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"676"}}
+{"date":"20140409","city":"Chicago","word":"World Cup 2018","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"677"}}
+{"date":"20140609","city":"Shanghai","word":"John Venn","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"678"}}
+{"date":"20140715","city":"Singapore","word":"Eric Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"679"}}
+{"date":"20140523","city":"Shanghai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"680"}}
+{"date":"20140630","city":"Chicago","word":"Aaron Murray","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"681"}}
+{"date":"20140419","city":"Florence","word":"Weird Al Tacky","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"682"}}
+{"date":"20140227","city":"Seoul","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"683"}}
+{"date":"20140804","city":"Chicago","word":"Cheryl Hines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"684"}}
+{"date":"20140320","city":"Beijing","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"685"}}
+{"date":"20140301","city":"Shanghai","word":"Michael Strahan","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"686"}}
+{"date":"20140211","city":"Tokyo","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"687"}}
+{"date":"20140726","city":"Boston","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"688"}}
+{"date":"20140619","city":"Sendai","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"689"}}
+{"date":"20140623","city":"Florence","word":"Brazil vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"690"}}
+{"date":"20140613","city":"Tokyo","word":"Dave Legeno","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"691"}}
+{"date":"20140331","city":"Rome","word":"Krispy Kreme","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"692"}}
+{"date":"20140213","city":"Moscow","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"693"}}
+{"date":"20140718","city":"New York","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"694"}}
+{"date":"20140702","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"695"}}
+{"date":"20140526","city":"Hong Kong","word":"Super Moon","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"696"}}
+{"date":"20140605","city":"Beijing","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"697"}}
+{"date":"20140624","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"698"}}
+{"date":"20140408","city":"Seoul","word":"Listeria","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"699"}}
+{"date":"20140331","city":"Berlin","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"700"}}
+{"date":"20140317","city":"Tokyo","word":"Josh McRoberts","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"701"}}
+{"date":"20140219","city":"Singapore","word":"Lucy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"702"}}
+{"date":"20140212","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"703"}}
+{"date":"20140322","city":"Paris","word":"Bbc","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"704"}}
+{"date":"20140724","city":"Chicago","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"705"}}
+{"date":"20140228","city":"Berlin","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"706"}}
+{"date":"20140402","city":"Sendai","word":"Sharknado 2","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"707"}}
+{"date":"20140209","city":"Singapore","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"708"}}
+{"date":"20140331","city":"Hong Kong","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"709"}}
+{"date":"20140419","city":"Sydney","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"710"}}
+{"date":"20140214","city":"London","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"711"}}
+{"date":"20140716","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"712"}}
+{"date":"20140426","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"713"}}
+{"date":"20140424","city":"Hong Kong","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"714"}}
+{"date":"20140416","city":"Beijing","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"715"}}
+{"date":"20140423","city":"London","word":"Weird Al Tacky","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"716"}}
+{"date":"20140409","city":"Chicago","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"717"}}
+{"date":"20140702","city":"Toronto","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"718"}}
+{"date":"20140222","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"719"}}
+{"date":"20140521","city":"Shanghai","word":"Cleveland Cavaliers","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"720"}}
+{"date":"20140327","city":"Moscow","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"721"}}
+{"date":"20140803","city":"Nagoya","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"722"}}
+{"date":"20140702","city":"Boston","word":"Sharknado 2","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"723"}}
+{"date":"20140507","city":"Sendai","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"724"}}
+{"date":"20140705","city":"New York","word":"Chandler Parsons","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"725"}}
+{"date":"20140330","city":"Paris","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"726"}}
+{"date":"20140222","city":"Boston","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"727"}}
+{"date":"20140507","city":"Shanghai","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"728"}}
+{"date":"20140203","city":"Nagoya","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"729"}}
+{"date":"20140504","city":"Moscow","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"730"}}
+{"date":"20140718","city":"Singapore","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"731"}}
+{"date":"20140312","city":"Boston","word":"Bbc","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"732"}}
+{"date":"20140705","city":"Moscow","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"733"}}
+{"date":"20140725","city":"Seoul","word":"Destiny Beta","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"734"}}
+{"date":"20140326","city":"London","word":"Rory McIlroy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"735"}}
+{"date":"20140602","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"736"}}
+{"date":"20140508","city":"Berlin","word":"Michael Johns","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"737"}}
+{"date":"20140331","city":"Rome","word":"Misty Copeland","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"738"}}
+{"date":"20140304","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"739"}}
+{"date":"20140214","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"740"}}
+{"date":"20140316","city":"Moscow","word":"Raymond Frolander","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"741"}}
+{"date":"20140514","city":"New York","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"742"}}
+{"date":"20140621","city":"Singapore","word":"Ebola","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"743"}}
+{"date":"20140327","city":"Toronto","word":"Yoenis Cespedes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"744"}}
+{"date":"20140321","city":"Sendai","word":"Netherlands vs Costa Rica","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"745"}}
+{"date":"20140425","city":"Beijing","word":"IHOP","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"746"}}
+{"date":"20140415","city":"Shanghai","word":"Dustin Johnson","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"747"}}
+{"date":"20140404","city":"New York","word":"MSNBC","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"748"}}
+{"date":"20140216","city":"Seoul","word":"Coolest Cooler","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"749"}}
+{"date":"20140319","city":"New Delhi","word":"Behati Prinsloo","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"750"}}
+{"date":"20140527","city":"Berlin","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"751"}}
+{"date":"20140416","city":"Chicago","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"752"}}
+{"date":"20140207","city":"Singapore","word":"Nelson Mandela","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"753"}}
+{"date":"20140728","city":"Rome","word":"The Purge Anarchy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"754"}}
+{"date":"20140621","city":"Boston","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"755"}}
+{"date":"20140301","city":"New Delhi","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"756"}}
+{"date":"20140219","city":"Shanghai","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"757"}}
+{"date":"20140519","city":"Sendai","word":"Weird Al Tacky","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"758"}}
+{"date":"20140206","city":"Sydney","word":"Adrienne Bailon","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"759"}}
+{"date":"20140316","city":"Florence","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"760"}}
+{"date":"20140622","city":"Sydney","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"761"}}
+{"date":"20140317","city":"Chicago","word":"Dawn of the Planet of the Apes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"762"}}
+{"date":"20140402","city":"Toronto","word":"Hemlock Grove","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"763"}}
+{"date":"20140204","city":"Beijing","word":"Tour de France","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"764"}}
+{"date":"20140417","city":"New Delhi","word":"Garth Brooks Tour","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"765"}}
+{"date":"20140619","city":"New York","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"766"}}
+{"date":"20140225","city":"New Delhi","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"767"}}
+{"date":"20140713","city":"Chicago","word":"Netherlands vs Costa Rica","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"768"}}
+{"date":"20140725","city":"Sendai","word":"Netherlands vs Costa Rica","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"769"}}
+{"date":"20140411","city":"Moscow","word":"Lucy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"770"}}
+{"date":"20140321","city":"Chicago","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"771"}}
+{"date":"20140529","city":"Hong Kong","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"772"}}
+{"date":"20140609","city":"Seoul","word":"Destiny Beta","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"773"}}
+{"date":"20140511","city":"Toronto","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"774"}}
+{"date":"20140206","city":"Nagoya","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"775"}}
+{"date":"20140513","city":"Nagoya","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"776"}}
+{"date":"20140605","city":"New Delhi","word":"Maria Kirilenko","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"777"}}
+{"date":"20140510","city":"New York","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"778"}}
+{"date":"20140524","city":"Sendai","word":"Andrej Pejic","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"779"}}
+{"date":"20140614","city":"Beijing","word":"Carmelo Anthony","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"780"}}
+{"date":"20140418","city":"Berlin","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"781"}}
+{"date":"20140604","city":"Florence","word":"Messi","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"782"}}
+{"date":"20140215","city":"Berlin","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"783"}}
+{"date":"20140718","city":"Hong Kong","word":"Finding Carter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"784"}}
+{"date":"20140503","city":"Hong Kong","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"785"}}
+{"date":"20140210","city":"Rome","word":"Jennette McCurdy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"786"}}
+{"date":"20140508","city":"Hong Kong","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"787"}}
+{"date":"20140524","city":"Beijing","word":"Neymar","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"788"}}
+{"date":"20140704","city":"Berlin","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"789"}}
+{"date":"20140611","city":"Beijing","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"790"}}
+{"date":"20140306","city":"Toronto","word":"Paul Pierce","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"791"}}
+{"date":"20140528","city":"New York","word":"Weird Al Tacky","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"792"}}
+{"date":"20140411","city":"Tokyo","word":"Ebola","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"793"}}
+{"date":"20140703","city":"Boston","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"794"}}
+{"date":"20140330","city":"Nagoya","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"795"}}
+{"date":"20140511","city":"Rome","word":"Rory McIlroy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"796"}}
+{"date":"20140717","city":"Rome","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"797"}}
+{"date":"20140721","city":"Hong Kong","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"798"}}
+{"date":"20140715","city":"Toronto","word":"Yoenis Cespedes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"799"}}
+{"date":"20140208","city":"Nagoya","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"800"}}
+{"date":"20140523","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"801"}}
+{"date":"20140724","city":"Hong Kong","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"802"}}
+{"date":"20140602","city":"Seoul","word":"Pottermore","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"803"}}
+{"date":"20140202","city":"Toronto","word":"Jennette McCurdy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"804"}}
+{"date":"20140413","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"805"}}
+{"date":"20140515","city":"Hong Kong","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"806"}}
+{"date":"20140428","city":"New Delhi","word":"UCLA","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"807"}}
+{"date":"20140515","city":"Chicago","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"808"}}
+{"date":"20140425","city":"Moscow","word":"Hurricane Arthur","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"809"}}
+{"date":"20140705","city":"Tokyo","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"810"}}
+{"date":"20140712","city":"Paris","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"811"}}
+{"date":"20140609","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"812"}}
+{"date":"20140601","city":"Florence","word":"British Open","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"813"}}
+{"date":"20140427","city":"Chicago","word":"Joey Chestnut","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"814"}}
+{"date":"20140328","city":"New York","word":"Skye McCole Bartusiak","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"815"}}
+{"date":"20140309","city":"Shanghai","word":"Freddie Prinze Jr","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"816"}}
+{"date":"20140707","city":"Moscow","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"817"}}
+{"date":"20140416","city":"Berlin","word":"Gaza","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"818"}}
+{"date":"20140208","city":"Boston","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"819"}}
+{"date":"20140521","city":"Sydney","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"820"}}
+{"date":"20140803","city":"Sendai","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"821"}}
+{"date":"20140210","city":"Nagoya","word":"Ian Thorpe","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"822"}}
+{"date":"20140228","city":"Shanghai","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"823"}}
+{"date":"20140507","city":"Paris","word":"Kevin Love","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"824"}}
+{"date":"20140410","city":"Tokyo","word":"Orlando Bloom","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"825"}}
+{"date":"20140612","city":"Toronto","word":"Lilit Avagyan","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"826"}}
+{"date":"20140423","city":"Sendai","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"827"}}
+{"date":"20140528","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"828"}}
+{"date":"20140519","city":"Florence","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"829"}}
+{"date":"20140213","city":"London","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"830"}}
+{"date":"20140322","city":"Singapore","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"831"}}
+{"date":"20140514","city":"Nagoya","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"832"}}
+{"date":"20140427","city":"Berlin","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"833"}}
+{"date":"20140402","city":"New York","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"834"}}
+{"date":"20140523","city":"Singapore","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"835"}}
+{"date":"20140619","city":"Rome","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"836"}}
+{"date":"20140321","city":"Boston","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"837"}}
+{"date":"20140516","city":"Beijing","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"838"}}
+{"date":"20140415","city":"Boston","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"839"}}
+{"date":"20140627","city":"Seoul","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"840"}}
+{"date":"20140428","city":"Seoul","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"841"}}
+{"date":"20140507","city":"Rome","word":"Tour de France","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"842"}}
+{"date":"20140628","city":"Toronto","word":"Teen Choice Awards 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"843"}}
+{"date":"20140313","city":"Paris","word":"Yoenis Cespedes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"844"}}
+{"date":"20140630","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"845"}}
+{"date":"20140214","city":"Toronto","word":"Frank Caliendo","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"846"}}
+{"date":"20140804","city":"Singapore","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"847"}}
+{"date":"20140305","city":"Moscow","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"848"}}
+{"date":"20140731","city":"Florence","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"849"}}
+{"date":"20140529","city":"Nagoya","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"850"}}
+{"date":"20140730","city":"London","word":"Alix Tichelman","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"851"}}
+{"date":"20140620","city":"Berlin","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"852"}}
+{"date":"20140402","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"853"}}
+{"date":"20140805","city":"Chicago","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"854"}}
+{"date":"20140415","city":"New Delhi","word":"Elaine Stritch","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"855"}}
+{"date":"20140603","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"856"}}
+{"date":"20140610","city":"Florence","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"857"}}
+{"date":"20140514","city":"New York","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"858"}}
+{"date":"20140327","city":"Seoul","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"859"}}
+{"date":"20140524","city":"Singapore","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"860"}}
+{"date":"20140218","city":"Toronto","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"861"}}
+{"date":"20140503","city":"Paris","word":"Flawless remix","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"862"}}
+{"date":"20140610","city":"New York","word":"Dan Bilzerian","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"863"}}
+{"date":"20140716","city":"Toronto","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"864"}}
+{"date":"20140608","city":"Tokyo","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"865"}}
+{"date":"20140731","city":"Berlin","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"866"}}
+{"date":"20140720","city":"Boston","word":"David Beckham","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"867"}}
+{"date":"20140702","city":"London","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"868"}}
+{"date":"20140707","city":"Berlin","word":"Sharknado 2","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"869"}}
+{"date":"20140519","city":"London","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"870"}}
+{"date":"20140424","city":"New York","word":"Eid Mubarak","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"871"}}
+{"date":"20140713","city":"New Delhi","word":"Emmy nominations 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"872"}}
+{"date":"20140603","city":"Paris","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"873"}}
+{"date":"20140725","city":"Rome","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"874"}}
+{"date":"20140502","city":"Nagoya","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"875"}}
+{"date":"20140226","city":"Moscow","word":"Ebola","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"876"}}
+{"date":"20140317","city":"Hong Kong","word":"Agt","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"877"}}
+{"date":"20140218","city":"New Delhi","word":"Anwan Glover","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"878"}}
+{"date":"20140528","city":"Florence","word":"Pau Gasol","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"879"}}
+{"date":"20140719","city":"Shanghai","word":"Burkina Faso","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"880"}}
+{"date":"20140701","city":"New Delhi","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"881"}}
+{"date":"20140714","city":"Paris","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"882"}}
+{"date":"20140609","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"883"}}
+{"date":"20140505","city":"Toronto","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"884"}}
+{"date":"20140326","city":"Beijing","word":"German flag","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"885"}}
+{"date":"20140704","city":"Boston","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"886"}}
+{"date":"20140421","city":"New Delhi","word":"Kacy Catanzaro","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"887"}}
+{"date":"20140204","city":"Paris","word":"Agt","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"888"}}
+{"date":"20140408","city":"New York","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"889"}}
+{"date":"20140206","city":"London","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"890"}}
+{"date":"20140620","city":"Sydney","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"891"}}
+{"date":"20140719","city":"Chicago","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"892"}}
+{"date":"20140621","city":"Nagoya","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"893"}}
+{"date":"20140718","city":"Moscow","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"894"}}
+{"date":"20140615","city":"Shanghai","word":"BJ Penn","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"895"}}
+{"date":"20140602","city":"Shanghai","word":"Weird Al Tacky","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"896"}}
+{"date":"20140519","city":"New Delhi","word":"Cheesecake Factory","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"897"}}
+{"date":"20140207","city":"Hong Kong","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"898"}}
+{"date":"20140528","city":"Moscow","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"899"}}
+{"date":"20140215","city":"Tokyo","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"900"}}
+{"date":"20140701","city":"Toronto","word":"Comic Con 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"901"}}
+{"date":"20140311","city":"Beijing","word":"MSNBC","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"902"}}
+{"date":"20140405","city":"Toronto","word":"Anthony Cumia","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"903"}}
+{"date":"20140428","city":"Singapore","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"904"}}
+{"date":"20140327","city":"Tokyo","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"905"}}
+{"date":"20140220","city":"Berlin","word":"Brazil vs Germany","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"906"}}
+{"date":"20140505","city":"Florence","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"907"}}
+{"date":"20140423","city":"Nagoya","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"908"}}
+{"date":"20140518","city":"Singapore","word":"Ebola","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"909"}}
+{"date":"20140522","city":"New York","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"910"}}
+{"date":"20140511","city":"Florence","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"911"}}
+{"date":"20140408","city":"Sydney","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"912"}}
+{"date":"20140710","city":"Rome","word":"Lance Stephenson","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"913"}}
+{"date":"20140208","city":"Seoul","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"914"}}
+{"date":"20140524","city":"Rome","word":"Pottermore","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"915"}}
+{"date":"20140220","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"916"}}
+{"date":"20140321","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"917"}}
+{"date":"20140723","city":"Hong Kong","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"918"}}
+{"date":"20140311","city":"Shanghai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"919"}}
+{"date":"20140314","city":"Florence","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"920"}}
+{"date":"20140321","city":"Singapore","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"921"}}
+{"date":"20140717","city":"Sendai","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"922"}}
+{"date":"20140517","city":"Seoul","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"923"}}
+{"date":"20140727","city":"Paris","word":"Eva Mendes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"924"}}
+{"date":"20140208","city":"Rome","word":"World Cup Final","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"925"}}
+{"date":"20140411","city":"Boston","word":"James Garner","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"926"}}
+{"date":"20140629","city":"Toronto","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"927"}}
+{"date":"20140716","city":"Hong Kong","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"928"}}
+{"date":"20140629","city":"Beijing","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"929"}}
+{"date":"20140323","city":"Hong Kong","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"930"}}
+{"date":"20140711","city":"Berlin","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"931"}}
+{"date":"20140203","city":"Seoul","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"932"}}
+{"date":"20140711","city":"New York","word":"Sharknado 2","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"933"}}
+{"date":"20140425","city":"Sendai","word":"Rory McIlroy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"934"}}
+{"date":"20140729","city":"Tokyo","word":"Bachelorette","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"935"}}
+{"date":"20140407","city":"Seoul","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"936"}}
+{"date":"20140428","city":"Paris","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"937"}}
+{"date":"20140408","city":"Moscow","word":"Chandler Parsons","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"938"}}
+{"date":"20140205","city":"Tokyo","word":"Chick Fil A","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"939"}}
+{"date":"20140623","city":"Beijing","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"940"}}
+{"date":"20140708","city":"New York","word":"John Legend","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"941"}}
+{"date":"20140615","city":"Chicago","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"942"}}
+{"date":"20140324","city":"Boston","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"943"}}
+{"date":"20140327","city":"Nagoya","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"944"}}
+{"date":"20140204","city":"Nagoya","word":"Netherlands vs Costa Rica","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"945"}}
+{"date":"20140323","city":"Boston","word":"Kacy Catanzaro","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"946"}}
+{"date":"20140526","city":"Chicago","word":"Eric Hill","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"947"}}
+{"date":"20140802","city":"Hong Kong","word":"Mad Max","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"948"}}
+{"date":"20140204","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"949"}}
+{"date":"20140304","city":"Rome","word":"Derek Jeter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"950"}}
+{"date":"20140704","city":"Chicago","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"951"}}
+{"date":"20140401","city":"Chicago","word":"Meek Mill","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"952"}}
+{"date":"20140410","city":"Boston","word":"Nicki Minaj","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"953"}}
+{"date":"20140330","city":"Sendai","word":"Michelle Rodriguez","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"954"}}
+{"date":"20140314","city":"Nagoya","word":"50 Shades of Grey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"955"}}
+{"date":"20140329","city":"Berlin","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"956"}}
+{"date":"20140413","city":"Shanghai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"957"}}
+{"date":"20140524","city":"Nagoya","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"958"}}
+{"date":"20140318","city":"London","word":"Becca Tobin","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"959"}}
+{"date":"20140527","city":"New York","word":"Teen Choice Awards 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"960"}}
+{"date":"20140623","city":"Sendai","word":"Ian Thorpe","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"961"}}
+{"date":"20140306","city":"Tokyo","word":"NASCAR","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"962"}}
+{"date":"20140805","city":"Singapore","word":"Argentina vs Belgium","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"963"}}
+{"date":"20140605","city":"Rome","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"964"}}
+{"date":"20140626","city":"Chicago","word":"Meek Mill","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"965"}}
+{"date":"20140616","city":"Chicago","word":"Guardians Of The Galaxy","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"966"}}
+{"date":"20140522","city":"Toronto","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"967"}}
+{"date":"20140709","city":"Chicago","word":"Misty Copeland","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"968"}}
+{"date":"20140707","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"969"}}
+{"date":"20140330","city":"Paris","word":"Elaine Stritch","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"970"}}
+{"date":"20140403","city":"New York","word":"Brazil vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"971"}}
+{"date":"20140311","city":"Sendai","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"972"}}
+{"date":"20140721","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"973"}}
+{"date":"20140520","city":"Nagoya","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"974"}}
+{"date":"20140317","city":"London","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"975"}}
+{"date":"20140426","city":"Beijing","word":"Sharknado 2","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"976"}}
+{"date":"20140531","city":"Seoul","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"977"}}
+{"date":"20140620","city":"London","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"978"}}
+{"date":"20140715","city":"Seoul","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"979"}}
+{"date":"20140404","city":"London","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"980"}}
+{"date":"20140425","city":"Sendai","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"981"}}
+{"date":"20140519","city":"Sendai","word":"LeBron James","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"982"}}
+{"date":"20140421","city":"Sendai","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"983"}}
+{"date":"20140625","city":"Sendai","word":"Lilit Avagyan","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"984"}}
+{"date":"20140211","city":"Moscow","word":"Yoenis Cespedes","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"985"}}
+{"date":"20140414","city":"New Delhi","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"986"}}
+{"date":"20140802","city":"Sendai","word":"Elaine Stritch","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"987"}}
+{"date":"20140215","city":"Boston","word":"Ronda Rousey","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"988"}}
+{"date":"20140313","city":"Rome","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"989"}}
+{"date":"20140410","city":"Sydney","word":"Hall of Fame Game 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"990"}}
+{"date":"20140429","city":"New Delhi","word":"Finding Carter","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"991"}}
+{"date":"20140605","city":"Chicago","word":"Argentina Vs Netherlands","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"992"}}
+{"date":"20140404","city":"Singapore","word":"Nelson Mandela","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"993"}}
+{"date":"20140412","city":"New York","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"994"}}
+{"date":"20140201","city":"Nagoya","word":"Paul George","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"995"}}
+{"date":"20140708","city":"Moscow","word":"Stephen A Smith","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"996"}}
+{"date":"20140701","city":"Toronto","word":"World Cup","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"997"}}
+{"date":"20140301","city":"London","word":"Wimbledon 2014","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"998"}}
+{"date":"20140511","city":"Sydney","word":"Apollo Nida","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"999"}}
+{"date":"20140411","city":"Sydney","word":"Malaysia Airlines","status":0}
+{"index":{"_index":"query_data_1k","_type":"query","_id":"1000"}}
+{"date":"20140604","city":"Beijing","word":"World Cup","status":0}
