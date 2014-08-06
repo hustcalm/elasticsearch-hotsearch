@@ -42,6 +42,7 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
 			RestChannel channel, Client client) throws Exception {
 		String time_range = request.param("time");
 		String time_safe = (time_range != null) ? time_range : "5";
+		
 		/*
 		channel.sendResponse(new BytesRestResponse(OK, "Hello, " + time_safe + "!"));
 		
@@ -102,6 +103,8 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
         Terms terms = response.getAggregations().get("keys");
         //Collection<Terms.Bucket> buckets = terms.getBuckets();
         
+        Map<String, Map<String, Map<String, Object>>> ret_json = new HashMap<String, Map<String, Map<String, Object>>>();
+
         Map<String, Map<String, Object>> json = new HashMap<String, Map<String, Object>>();
         
         long totalDocs = 0;
@@ -112,18 +115,23 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
         	//Key:city  getDocCount:doc numbers
         	String city = b.getKey();  // city name
         	long docNum = b.getDocCount(); // doc numbers
-        	double population = docNum/totalDocs; // population among world
+        	double population = (double)docNum/(double)totalDocs; // population among world
         	
             Map<String, Object> single_city = new HashMap<String, Object>();
+            //single_city.put("Population", String.valueOf(population));
             single_city.put("Population", population);
+            //single_city.put("Docs", docNum);
+            //single_city.put("TotalDocs", totalDocs);
             single_city.put("hot_words", "test");
             
             json.put(city, single_city);
         }
+        
+        ret_json.put("Citys", json);
                 
         //channel.sendResponse(new BytesRestResponse(OK, response.toString()));
         
-        channel.sendResponse(new BytesRestResponse(OK, new JSONObject(json).toString()));
+        channel.sendResponse(new BytesRestResponse(OK, new JSONObject(ret_json).toString()));
 
 	}
 }
