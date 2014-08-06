@@ -2,20 +2,31 @@ package com.cgroups.elasticsearch.rest.hotsearch;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.Collection;
 import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
 
 import org.elasticsearch.rest.*;
+import org.elasticsearch.search.aggregations.AggregationBuilders;
+import org.elasticsearch.search.aggregations.bucket.terms.Terms;
+import org.elasticsearch.search.aggregations.bucket.terms.Terms.Bucket;
+
 
 import org.elasticsearch.action.search.SearchResponse;
 import org.elasticsearch.action.search.SearchType;
 import org.elasticsearch.client.Client;
 import org.elasticsearch.common.inject.Inject;
 import org.elasticsearch.common.settings.Settings;
+import org.elasticsearch.index.mapper.object.ObjectMapper;
 import org.elasticsearch.index.query.FilterBuilders;
+import org.elasticsearch.index.query.QueryBuilder;
 import org.elasticsearch.index.query.QueryBuilders;
 
 import static org.elasticsearch.rest.RestRequest.Method.GET;
 import static org.elasticsearch.rest.RestStatus.OK;
+
+import org.json.JSONObject;
 
 public class AllHotSearchRestHandler extends BaseRestHandler  {
 
@@ -66,14 +77,53 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
 		        .actionGet();
 		        */
         
-        SearchResponse response = client.prepareSearch("query_data_1k")
+        /*
+        QueryBuilder qb = QueryBuilders.matchQuery("name", "kimchy elasticsearch");
+
+        SearchResponse response = client.prepareSearch("query_data_10k")
                 .setTypes("query")
                 .setSearchType(SearchType.DFS_QUERY_THEN_FETCH)
-                .setQuery(QueryBuilders.termQuery("word", "World"))             // Query
+                .setQuery(qb)             // Query
                 //.setPostFilter(FilterBuilders.rangeFilter("date").from(backDay).to(today))   // Filter
                 .setFrom(0).setSize(60).setExplain(true)
                 .execute()
                 .actionGet();
-        channel.sendResponse(new BytesRestResponse(OK, response.toString()));
+        */
+        
+        /*
+        SearchResponse response = client.prepareSearch().execute().actionGet();
+        */
+        
+        SearchResponse response = client.prepareSearch("query_data_10k").setTypes("query")
+                .setQuery(QueryBuilders.matchAllQuery())
+                .addAggregation(AggregationBuilders.terms("keys").field("city").size(0).order(Terms.Order.count(false)))
+                .execute().actionGet();
+
+        Terms terms = response.getAggregations().get("keys");
+        //Collection<Terms.Bucket> buckets = terms.getBuckets();
+        
+        Map<String, Map<String, Object>> json = new HashMap<String, Map<String, Object>>();
+        
+        long totalDocs = 0;
+        totalDocs = response.getHits().getTotalHits();
+        
+        for(Bucket b:terms.getBuckets()){
+        	//System.out.println("filedname:"+b.getKey()+"     docCount:"+b.getDocCount());
+        	//Key:city  getDocCount:doc numbers
+        	String city = b.getKey();  // city name
+        	long docNum = b.getDocCount(); // doc numbers
+        	double population = docNum/totalDocs; // population among world
+        	
+            Map<String, Object> single_city = new HashMap<String, Object>();
+            single_city.put("Population", population);
+            single_city.put("hot_words", "test");
+            
+            json.put(city, single_city);
+        }
+                
+        //channel.sendResponse(new BytesRestResponse(OK, response.toString()));
+        
+        channel.sendResponse(new BytesRestResponse(OK, new JSONObject(json).toString()));
+
 	}
 }
