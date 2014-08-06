@@ -50,9 +50,10 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
         Date backDate = cal.getTime();    
         String backDay = dateFormat.format(backDate);
         
+        /*
 		channel.sendResponse(new BytesRestResponse(OK, "You are requesting " + time_safe + " days, ranging from " 
 				+ today + " back to " + backDay + "..."));
-		
+		*/
         
         /*
         SearchResponse response = client.prepareSearch("index1", "index2")
@@ -64,5 +65,15 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
 		        .execute()
 		        .actionGet();
 		        */
+        
+        SearchResponse response = client.prepareSearch("query_data_1k")
+                .setTypes("query")
+                .setSearchType(SearchType.DFS_QUERY_THEN_FETCH)
+                .setQuery(QueryBuilders.termQuery("word", "World"))             // Query
+                .setPostFilter(FilterBuilders.rangeFilter("date").from(backDay).to(today))   // Filter
+                .setFrom(0).setSize(60).setExplain(true)
+                .execute()
+                .actionGet();
+        channel.sendResponse(new BytesRestResponse(OK, response.toString()));
 	}
 }
