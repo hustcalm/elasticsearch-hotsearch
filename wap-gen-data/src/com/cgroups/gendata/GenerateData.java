@@ -1,3 +1,4 @@
+package com.cgroups.gendata;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -11,7 +12,7 @@ public class GenerateData {
 		QueryGenerator qg = new QueryGenerator(re, t, random_city);
 		BufferedWriter bw = null;
 		BufferedWriter data_bw = null;
-		try{
+		try{ 
 			bw = new BufferedWriter(new FileWriter("data/queries.csv"));
 			data_bw = new BufferedWriter(new FileWriter("data/data.json"));
 			for (int i=1; i<=1000; i++){

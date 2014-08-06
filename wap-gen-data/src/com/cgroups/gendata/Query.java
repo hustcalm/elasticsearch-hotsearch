@@ -1,3 +1,4 @@
+package com.cgroups.gendata;
 import java.util.Date;
 
 /**

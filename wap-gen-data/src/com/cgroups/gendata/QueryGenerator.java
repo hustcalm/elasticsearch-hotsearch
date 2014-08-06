@@ -1,3 +1,4 @@
+package com.cgroups.gendata;
 public class QueryGenerator {
 	RandomEntry random_word;
 	RandomTime random_time;
@@ -10,7 +11,7 @@ public class QueryGenerator {
 	/**
 	 * @return A random Query
 	 */
-	public Query getNextQuery(){
+	public Query getNextQuery(){ 
 		return new Query(this.random_time.getNextDate(), 
 				this.random_word.getNextWord(), 
 				this.randome_city.getNextWord());
