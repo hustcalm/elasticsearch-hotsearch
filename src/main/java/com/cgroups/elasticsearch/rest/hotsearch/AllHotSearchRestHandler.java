@@ -97,6 +97,7 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
         
         SearchResponse response = client.prepareSearch("query_data_10k").setTypes("query")
                 .setQuery(QueryBuilders.matchAllQuery())
+                .setPostFilter(FilterBuilders.rangeFilter("date").from(backDay).to(today))
                 .addAggregation(AggregationBuilders.terms("keys").field("city").size(0).order(Terms.Order.count(false)))
                 .execute().actionGet();
 
@@ -110,12 +111,23 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
         long totalDocs = 0;
         totalDocs = response.getHits().getTotalHits();
         
+        totalDocs = 0;
+        long maxDocNum = 0;
+        for(Bucket b:terms.getBuckets()) {
+        	long curDocNum = b.getDocCount();
+        	totalDocs += curDocNum;
+        	if(curDocNum > maxDocNum) {
+        		maxDocNum = curDocNum;
+        	}
+        }
+        
         for(Bucket b:terms.getBuckets()){
         	//System.out.println("filedname:"+b.getKey()+"     docCount:"+b.getDocCount());
         	//Key:city  getDocCount:doc numbers
         	String city = b.getKey();  // city name
         	long docNum = b.getDocCount(); // doc numbers
-        	double population = (double)docNum/(double)totalDocs; // population among world
+        	//double population = (double)docNum/(double)totalDocs; // population among world
+        	double population = (double)docNum/(double)maxDocNum;
         	
             Map<String, Object> single_city = new HashMap<String, Object>();
             //single_city.put("Population", String.valueOf(population));
