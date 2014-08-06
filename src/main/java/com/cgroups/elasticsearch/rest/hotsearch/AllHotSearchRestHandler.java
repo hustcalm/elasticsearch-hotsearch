@@ -70,7 +70,7 @@ public class AllHotSearchRestHandler extends BaseRestHandler  {
                 .setTypes("query")
                 .setSearchType(SearchType.DFS_QUERY_THEN_FETCH)
                 .setQuery(QueryBuilders.termQuery("word", "World"))             // Query
-                .setPostFilter(FilterBuilders.rangeFilter("date").from(backDay).to(today))   // Filter
+                //.setPostFilter(FilterBuilders.rangeFilter("date").from(backDay).to(today))   // Filter
                 .setFrom(0).setSize(60).setExplain(true)
                 .execute()
                 .actionGet();
