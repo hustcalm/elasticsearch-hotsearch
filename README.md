@@ -1,6 +1,7 @@
-====================================
-Elasticsearch Index Inspector plugin
-====================================
+elasticsearch-hotsearch
+=======================
+
+An ElasticSearch Plugin for showing hot searches around the world.
 
 * plugin name: index-inspector-plugin
 * Features: simple index viewer via web browser
@@ -13,13 +14,8 @@ Build
   * Then, the plugin package will be generated in PROJECT_HOME/target/release/elasticsearch-index-inspector-[VERSION].zip
 * For developer, as above, you can execute "mvn eclipse:eclipse" and then import it as an Eclipse project.
 
-Group_C Go
-==========
-
-Test gitlab from `group_c`!
-
 #### Idea
-What are people searching about movies? Show them on the world map!!!
+What are people searching about movies or other things? Show them on the world map!!!
 
 #### Implementation
 ##### Data
@@ -29,4 +25,3 @@ Keywords DATETIME
 
 ##### Front End
 Use Javasript to show the movie searches as different colors according to each City(Given the name), when hover on it or click on it, show details of the city.
-fdsfds
